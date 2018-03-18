@@ -28,8 +28,6 @@ def get_windows():
     windows[index] = item
   return windows
 
-#TODO: reverse split at " - "+keyword, return first item
-
 target_id = ""
 target_title = ""
 refresh = 700
